@@ -1,0 +1,1 @@
+{"uuid":"232bf072-da7d-4b73-a02d-fe181c2a2ac2","name":"tests.AddShopModuleTest","children":["02c30777-11a6-48f5-b38a-7904120adb76"],"befores":[],"afters":[{"name":"Teardown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1692942957046,"stop":1692942957352}],"start":1692942879721,"stop":1692943037631}

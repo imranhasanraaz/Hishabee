@@ -1,0 +1,40 @@
+{
+  "bengaliWelcomeTitle": "স্বাগতম",
+  "validRegisteredPin" : 14256 ,
+  "validRegisteredNumber" : "01618636368",
+  "inValidPin" : 1425 ,
+  "invalidPinErrorMessage" : "Error\nPlease provide a valid pin",
+  "inValidPhone" : 173456,
+  "invalidNumberErrorMessage" : "The mobile number must be at least 11 characters.",
+  "editShopMessage" : "Shop Info Updated Successfully.",
+  "addProductMessage" : "Product Successfully Create",
+  "productDeleteMessage" : "You will not be able to recover this data!",
+  "updatedProductMessage" : "Product Successfully Create",
+  "customerAddSuccessMessage" : "Customer Added Successfully",
+  "customerUpdatedMessage" : "Customer Added Successfully",
+  "facebookLink": "https://www.facebook.com/hishabee.bd",
+  "instagramLink" : "https://www.instagram.com/hishabee.business/",
+  "createShop" : {
+    "pageTitle": "Create Shop",
+    "shopName" : "Imran & Sons",
+    "Address" : "Mirpur, Dhaka"
+  },
+  "editShop" : {
+    "updatedShopAddress" : "Gulshan, Dhaka",
+    "logo": "./src/test/resources/logo.png",
+    "updatedPhoneNumber" : "01618636368"
+  },
+
+  "productDetails" : {
+    "productName": "Oil",
+    "sellingPrice": 100,
+    "stock" : 12,
+    "PurchasePrice" : 95,
+    "updatedStock" : 15
+  },
+  "customerDetails": {
+    "name" : "Imran Hasan",
+    "phone" : "01734567808",
+    "address" : "Mirpur, Dhaka"
+  }
+}
